@@ -15,7 +15,7 @@ const tours = [
       "The picturesque island of Madeira is waiving COVID-19 testing requirements for those who are vaccinated and meet the country's entry requirements. Visitors must prove their status through an official vaccination certificate that includes the date of the two doses taken and the immunization period for each vaccine. The requirement can also be waived for those who can provide proof of recovery from the virus in the previous 90 days Passengers who aren't vaccinated but meet the country's entry requirements can still visit, but they are required to have a negative PCR test carried out within 72 hours prior to boarding. If they arrive without it, they can take the test on arrival at the airport, and are required to quarantine at their destination until they receive the result.",
     image:
       "https://cdn.pixabay.com/photo/2018/07/25/11/08/madeira-3561153_960_720.jpg",
-    price: "12,3000",
+    price: "1,23000",
   },
   {
     id: "45584aasaedSASe",
