@@ -36,7 +36,6 @@ body {
 .container {
   max-width: 600px;
   margin: 0 auto;
-  position: relative;
 }
 img {
   width: 100%;
@@ -54,18 +53,17 @@ ul {
 
 .heading {
   text-align: center;
-  margin: 10px 0px 50px;
+  margin: 10px 0px 0px;
   text-transform: uppercase;
   letter-spacing: 3px;
 }
 .line {
   width: 50%;
-  max-width: 50%;
   height: 4px;
   background-color: #1d0fdf8a;
-  position: absolute;
-  top: 50px;
-  left: 135px;
+  margin: 0 auto;
+  margin-bottom: 50px;
+  border-radius: 50px;
 }
 .view {
   width: 100%;
@@ -94,9 +92,7 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.8px;
 }
-.bottom p {
-  transition: all 1s ease-out;
-}
+
 .show {
   padding: 5px 10px;
   border: 0;
@@ -121,9 +117,53 @@ ul {
   color: #333;
   border-radius: 10px;
   cursor: pointer;
-  margin: 10px 200px 40px 200px;
+  display: block;
+  max-width: 80%;
+  margin: 10px auto 30px;
 }
 
 .not-interested:focus {
   outline: 0;
+}
+
+@media (max-width: 562px) {
+  .heading {
+    letter-spacing: 1px;
+    font-size: 1.1em;
+  }
+
+  .line {
+    margin-bottom: 25px;
+  }
+
+  .top {
+    margin: 20px 15px 20px 15px;
+    justify-content: space-between;
+  }
+
+  .bottom {
+    margin: 20px 15px 20px 15px;
+    line-height: 1.1;
+    letter-spacing: 0.7px;
+  }
+
+  .show {
+    padding: 4px 8px;
+    font-size: 0.85em;
+  }
+
+  .not-interested {
+    font-size: 1em;
+    padding: 2px 10px;
+    margin: 10px auto 20px;
+  }
+
+  .top h5 {
+    letter-spacing: 0px;
+  }
+
+  .top p {
+    font-size: 0.8em;
+    padding: 3px 6px;
+  }
 }
