@@ -94,14 +94,17 @@ ul {
   line-height: 1.2;
   letter-spacing: 0.8px;
 }
-
+.bottom p {
+  transition: all 1s ease-out;
+}
 .show {
   padding: 5px 10px;
   border: 0;
   background: transparent;
   cursor: pointer;
   font-size: 1em;
-  color: #1100ff;
+  color: #ff006a;
+  font-weight: bold;
 }
 .show:focus {
   outline: 0;
