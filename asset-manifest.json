@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/tours-app-react/static/css/main.9506b01d.chunk.css",
-    "main.js": "/tours-app-react/static/js/main.1818e688.chunk.js",
-    "main.js.map": "/tours-app-react/static/js/main.1818e688.chunk.js.map",
+    "main.css": "/tours-app-react/static/css/main.5351ee50.chunk.css",
+    "main.js": "/tours-app-react/static/js/main.da2f1cc2.chunk.js",
+    "main.js.map": "/tours-app-react/static/js/main.da2f1cc2.chunk.js.map",
     "runtime-main.js": "/tours-app-react/static/js/runtime-main.3c95fb6e.js",
     "runtime-main.js.map": "/tours-app-react/static/js/runtime-main.3c95fb6e.js.map",
     "static/js/2.42f0c657.chunk.js": "/tours-app-react/static/js/2.42f0c657.chunk.js",
     "static/js/2.42f0c657.chunk.js.map": "/tours-app-react/static/js/2.42f0c657.chunk.js.map",
     "index.html": "/tours-app-react/index.html",
-    "static/css/main.9506b01d.chunk.css.map": "/tours-app-react/static/css/main.9506b01d.chunk.css.map",
+    "static/css/main.5351ee50.chunk.css.map": "/tours-app-react/static/css/main.5351ee50.chunk.css.map",
     "static/js/2.42f0c657.chunk.js.LICENSE.txt": "/tours-app-react/static/js/2.42f0c657.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.3c95fb6e.js",
     "static/js/2.42f0c657.chunk.js",
-    "static/css/main.9506b01d.chunk.css",
-    "static/js/main.1818e688.chunk.js"
+    "static/css/main.5351ee50.chunk.css",
+    "static/js/main.da2f1cc2.chunk.js"
   ]
 }
